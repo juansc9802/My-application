@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="products">Tipos de productos</string>
+    <string name="List">Ningun producto seleccionado</string>
+    <string-array name="drink_colors">
+        <item>Mercancias solidas</item>
+        <item>Productos agricolas</item>
+        <item>Liquidos</item>
+    </string-array>
+
+</resources>
